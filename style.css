@@ -1,0 +1,13 @@
+#wrapper-canvas canvas {
+    max-width: 100%;
+}
+
+.popup{
+    visibility: hidden;
+}
+@media (min-width: 0) and (max-width: 1024px) {
+  .hide{
+    visibility: hidden;
+    display: none;
+  }   
+}
